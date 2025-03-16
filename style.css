@@ -225,6 +225,7 @@ footer{
 @media(max-width : 400px){
     main{
         width: 320px;
+        height : 60vh;
     }
     .change button{
         width: 100px;
